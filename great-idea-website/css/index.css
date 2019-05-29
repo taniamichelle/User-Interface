@@ -108,11 +108,52 @@ head title {
 	padding: 5px;
 	margin: 5px;
 }
-body h4 {
-	
+.container2 {
+	display: flex;
+	flex-wrap: wrap;
+	margin: 20px;
+	padding: 20px;
 }
-body img {
-	float: right;
+.features {
+	width: 600px;
+	margin: 10px;
+	padding: 10px;
+	text-align: left;
+}
+.about {
+	width: 600px;
+	margin: 10px;
+	padding: 10px;
+	text-align: left;
+}
+.container3 {
+	width: 2000px;
+	margin: 20px;
+	padding: 20px;
+}
+.container4 {
+	display: flex;
+	flex-wrap: wrap;
+	margin: 20px;
+	padding: 20px;
+}
+.services {
+	width: 400px;
+	text-align: left;
+	padding: 10px;
+	margin: 10px;
+}
+.product {
+	width: 400px;
+    text-align: left;
+	padding: 10px;
+	margin: 10px;
+}
+.vision {
+	width: 400px;
+    text-align: left;
+	padding: 10px;
+	margin: 10px;
 }
 footer {
 	text-align: center;
