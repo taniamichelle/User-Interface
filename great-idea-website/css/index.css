@@ -65,11 +65,17 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
-header nav li {
+header nav {
 	color: gray;
 	margin: 20px;
 	padding: 20px;
 	text-align: center;
+	display: inline-block;
+}
+header img {
+	text-align: center;
+	margin: 20px;
+	padding: 20px;
 	display: inline-block;
 }
 head title {
