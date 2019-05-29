@@ -81,8 +81,8 @@ head title {
 }
 
 .container {
-	padding: 20px;
-	margin: 20px;
+	padding: 10px;
+	margin: 10px;
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-around;
@@ -93,27 +93,24 @@ head title {
 	text-align: center;
 }
 .slogan {
-	padding: 20px;
-	margin: 30px;	
-	height: 500px;
+	padding: 50px;
+	margin: 50px;	
+	height: 310px;
 	width: 500px;
-	font-size: 580%;
+	font-size: 500%;
 }
 .img {
 	padding: 20px;
 	margin: 30px;
-	height: 500px;
+	height: 450px;
 	width: 500px;
 }
-.button {
-	padding: 0px;
-	margin: 0px;
-}
+
 .container2 {
 	display: flex;
 	flex-wrap: wrap;
-	margin: 10px;
-	padding: 10px;
+	margin: 5px;
+	padding: 5px;
 	justify-content: space-around;
 }
 .features {
@@ -128,18 +125,20 @@ head title {
 	padding: 10px;
 	text-align: left;
 }
+
 .container3 {
 	display: flex;
 	justify-content: center;
 	width: 1200px;
-	margin: 10px;
-	padding: 10px;
+	margin: 5px;
+	padding: 5px;
 }
+
 .container4 {
 	display: flex;
 	flex-wrap: wrap;
-	margin: 20px;
-	padding: 20px;
+	margin: 5px;
+	padding: 5px;
 	justify-content: space-around;
 }
 .services {
@@ -160,9 +159,10 @@ head title {
 	padding: 10px;
 	margin: 10px;
 }
+
 hr {
 	display: block;
-	width: 93%;
+	width: 95%;
 	margin-left: auto;
 	margin-right: auto;
     margin-before: 0.5em;
@@ -171,14 +171,14 @@ hr {
     margin-end: auto;
     overflow: hidden;
     border-style: inset;
-	border-width: 1px;
-	
+	border-width: 2px;
 }
+
 .contact {
-	margin: 32px;
-	padding: 20px;
-	
+	margin: 20px;
+	padding: 15px;
 }
+
 footer {
 	text-align: center;
 	margin: 10px;
